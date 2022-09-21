@@ -20,7 +20,7 @@ $ graph build
 
 $ graph create --node https://graph.mvg.finance/deploy [YOUR GRAPH NAME]
 
-$ graph deploy --ipfs https://graph.mvg.finance/ipfs --node https://graph.mvg.finance/deploy [YOUR GRAPH NAME]
+$ graph deploy --ipfs http://graph.mvg.finance:5001 --node https://graph.mvg.finance/deploy [YOUR GRAPH NAME]
 
 3. Test your subgraph through visiting https://graph.mvg.finance/subgraphs/name/[YOUR GRAPH NAME]
 ```

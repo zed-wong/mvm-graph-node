@@ -2,6 +2,7 @@
 
 Host: [https://graph.mvg.finance](https://graph.mvg.finance)
 
+Status: DOWN
 
 ## Subgraph deployment
 

@@ -4,6 +4,8 @@ Host: [https://graph.mvg.finance](https://graph.mvg.finance)
 
 Status: DOWN
 
+The server will be up again when necessary, contact 28865
+
 ## Subgraph deployment
 
 Deploy the subgraph to the node:

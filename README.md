@@ -2,7 +2,7 @@
 
 Host: [https://graph.mvg.finance](https://graph.mvg.finance)
 
-Status: DOWN
+Status: Up
 
 The server will be up again when necessary, contact 28865
 

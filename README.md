@@ -30,6 +30,9 @@ Deploy guide:
 - [deploy-the-subgraph](https://github.com/graphprotocol/graph-node/blob/master/docs/getting-started.md#24-deploy-the-subgraph)
 - [subgraph-manifest](https://github.com/graphprotocol/graph-node/blob/master/docs/subgraph-manifest.md)
 
+## Deployed subgraph
+- [Aragon osx subgraph](https://graph.mvg.finance/subgraphs/name/osx-mainnet/graphql)
+
 ## About the set up of the node
 Use docker to run the node: https://medium.com/coinmonks/deploy-subgraphs-to-any-evm-aaaccc3559f
 
@@ -39,4 +42,3 @@ Hardware:
 - 4 vCPU
 - 16GB RAM
 - 1TB HDD
-

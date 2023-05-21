@@ -38,6 +38,10 @@ Use docker to run the node: https://medium.com/coinmonks/deploy-subgraphs-to-any
 
 To enable https, use nginx for proxy, generate conf: https://www.digitalocean.com/community/tools/nginx
 
+use let's encrypt certs. 
+
+nginx conf: https://gist.github.com/zed-wong/3109226d3b93426468d60b66033eda74
+
 Hardware: 
 - 4 vCPU
 - 16GB RAM
